@@ -1,0 +1,6 @@
+.iconTrash {
+  cursor: pointer;
+}
+.fasTrash:hover {
+  color: red;
+}
